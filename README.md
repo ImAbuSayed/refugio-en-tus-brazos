@@ -1,4 +1,4 @@
-# Refugio en tus brazos
+# Refugio en tus brazos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Refugio en tus brazos |
+| **Title** | Refugio en tus brazos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/refugio-en-tus-brazos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Refugio en tus brazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/refugio-en-tus-brazos/) |
+| **Get License** | [Get a Licensing Quote for Refugio en tus brazos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/refugio-en-tus-brazos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Buscaba la calma y encontré tu fuego
+> En medio de la disco me rindo a tu juego
+> Tu cuerpo es el templo donde quiero entrar
+> El único refugio que quiero habitar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3d5419f0faf5f2dcc13bf5458e7d097de682d2b7a2d0e03900fb6c96fe5de0d9` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
